@@ -1,0 +1,3533 @@
+[
+  {
+    "id": 1,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-02-20",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        5,
+        6
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        3,
+        8,
+        9
+      ],
+      [
+        4,
+        6,
+        7
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        4,
+        3,
+        12
+      ],
+      [
+        10,
+        11,
+        12
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-02-20",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        4,
+        5,
+        6
+      ],
+      [
+        3,
+        6,
+        7
+      ],
+      [
+        4,
+        5,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5,
+        6,
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-20",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-02-20",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "auditorium": "Stora Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-02-21",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-02-21",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-21",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 8,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-02-21",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-02-22",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 10,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-02-22",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-22",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        4,
+        7
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-02-22",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "auditorium": "Lilla Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-02-23",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "auditorium": "Stora Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-01-23",
+    "time": "17.30",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 15,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-02-23",
+    "time": "19.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      [
+        4,
+        5,
+        6,
+        7,
+        9
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-02-23",
+    "time": "19.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-02-24",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 18,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-02-24",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-24",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 20,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-02-24",
+    "time": "19.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-02-25",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 22,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-02-25",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-25",
+    "time": "20.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 24,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-02-25",
+    "time": "19.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-02-26",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 26,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-02-26",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-02-26",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 28,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-02-26",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-02-27",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 30,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-02-27",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-27",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 32,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-02-27",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-02-28",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 34,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-02-28",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-02-28",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 36,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-02-28",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-01",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 38,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-01",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-01",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 40,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-03-01",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-03-02",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 42,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-02",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-02",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 44,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-03-02",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-03",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 46,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-03",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-03",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 48,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-03-03",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-04",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 50,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-04",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-04",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 52,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-03-04",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-03-05",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 54,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-05",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-05",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 56,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-03-05",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-06",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 58,
+    "auditorium": "Lilla Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-06",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-06",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 60,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-03-06",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-07",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 62,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-07",
+    "time": "15.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-07",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 64,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-03-07",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-08",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 66,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-08",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-08",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 68,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-03-08",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-09",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 70,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-09",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 71,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-09",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 72,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-03-09",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 73,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-03-10",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 74,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-10",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 75,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-10",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 76,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-03-10",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 77,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-11",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 78,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-11",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 79,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-11",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 80,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-03-11",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 81,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-12",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 82,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-12",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 83,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-12",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 84,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-03-12",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 85,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-13",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 86,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-13",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 87,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-13",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 88,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-03-13",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 89,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-14",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 90,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-14",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-14",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 92,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-03-14",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 93,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-15",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 94,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-15",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 95,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-03-15",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 96,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-03-15",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 97,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-16",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 98,
+    "auditorium": "Lilla Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-16",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 99,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-16",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 100,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-03-16",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 101,
+    "auditorium": "Stora Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-17",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 102,
+    "auditorium": "Lilla Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-17",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 103,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-17",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 104,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-03-17",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 105,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-18",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 106,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-18",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 107,
+    "auditorium": "Stora Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-18",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 108,
+    "auditorium": "Lilla Salongen",
+    "film": "Top Gun : Marverick",
+    "date": "2023-03-18",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 109,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-19",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 110,
+    "auditorium": "Lilla Salongen",
+    "film": "A Man Called Otto",
+    "date": "2023-03-19",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 111,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-19",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 112,
+    "auditorium": "Lilla Salongen",
+    "film": "Doctor Strange in the Multiverse of Madness",
+    "date": "2023-03-19",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 113,
+    "auditorium": "Stora Salongen",
+    "film": "The Menu",
+    "date": "2023-03-20",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 114,
+    "auditorium": "Lilla Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-20",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 115,
+    "auditorium": "Stora Salongen",
+    "film": "Black Panther: Wakanda Forever",
+    "date": "2023-03-20",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 116,
+    "auditorium": "Lilla Salongen",
+    "film": "Forrest Gump",
+    "date": "2023-03-20",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 117,
+    "auditorium": "Stora Salongen",
+    "film": "Avatar: The Way of Water",
+    "date": "2023-03-21",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 118,
+    "auditorium": "Lilla Salongen",
+    "film": "The Menu",
+    "date": "2023-03-21",
+    "time": "15.00",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  },
+  {
+    "id": 119,
+    "auditorium": "Stora Salongen",
+    "film": "Bränn Alla Mina Brev",
+    "date": "2023-03-21",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "id": 120,
+    "auditorium": "Lilla Salongen",
+    "film": "Toy Story",
+    "date": "2023-03-21",
+    "time": "19.40",
+    "occupiedSeats": [
+      [
+        1
+      ],
+      [
+        3
+      ],
+      [
+        3
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        5
+      ]
+    ]
+  }
+]

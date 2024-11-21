@@ -1,0 +1,384 @@
+[
+  {
+    "title": "A Man Called Otto",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2017,
+    "length": 126,
+    "genre": "Komedi,Drama",
+    "distributor": "Sony Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Marc Forster",
+    "actors": [
+      "Tom Hanks",
+      "Mariana Treviño",
+      "Rachel Keller"
+    ],
+    "description": "Otto Anderson är en grinig änkeman, vars enda glädje kommer från att kritisera och döma sina upprörda grannar. När en ny familj flyttar in möter han sin match i kvicktänkta och höggravida Marisol, vilket leder till en oväntad vänskap som kommer att vända upp och ner på hans värld.A Man Called Otto är den amerikanska re-maken av den svenska bok och filmsuccén ”En man som heter Ove”",
+    "images": "/images/amancalledotto.jpg",
+    "youtubeTrailer": "eFYUX9l-m5I",
+    "trailer": "https://youtu.be/eFYUX9l-m5I",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "lockar en att gråta och skratta",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en film att förälska sig i",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "quote": "Med hjärtat på rätt plats",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Bränn Alla Mina Brev",
+    "productionCountries": [
+      "Sverige"
+    ],
+    "productionYear": 2022,
+    "length": 120,
+    "genre": "Drama",
+    "distributor": "SF Studios",
+    "language": "svenska",
+    "subtitles": "svenska",
+    "director": "Björn Runge ",
+    "actors": [
+      "Bill Skarsgård",
+      "Asta Kamma August",
+      "Gustav Lindh",
+      "Marika Lindström"
+    ],
+    "description": "Efter ett gräl med sin fru inser Alex Schulman att han måste ta itu med sin vrede. En ilska som gått i arv i generationer. Släktens alla konflikter och vendettor tycks börja hos en och samma person: morfar Sven Stolpe”",
+    "images": "/images/burnallmyletters.jpg",
+    "youtubeTrailer": "-DIxHED0Nxw",
+    "trailer": "https://www.youtube.com/watch?v=-DIxHED0Nxw",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "Bränn alla mina brev blir en kärlekshistoria att verkligen reflektera över",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "en berättelse om ett mörkt äktenskap",
+        "stars": 4,
+        "max": 4
+      },
+      {
+        "source": "SVT.se",
+        "quote": "Hur många av våra känslor och beteendemönster är nedärvda?",
+        "stars": 3,
+        "max": 4
+      }
+    ]
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 134,
+    "genre": "Action,Äventyr",
+    "distributor": "Walt Disney Studios,Motion Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Ryan Coogler ",
+    "actors": [
+      "Chadwick Boseman",
+      "Lupita Nyong'o",
+      "Angela Bassett",
+      "Michael B. Jordan"
+    ],
+    "description": "Queen Ramonda, Shuri, M’Baku, Okoye och deras specialstyrka med kvinnliga krigare, gör allt för att skydda sin nation från angripande världsmakter efter Kung T’Challas död. Wakandas invånare försöker gå vidare och tar hjälp av War Dog Nakia och Everett Ross, för att hitta en ny väg för kungariket Wakanda. Vi får också möta Namor, kungen av en dold undervattensnation.”",
+    "images": "/images/black-panther-wakanda-forever.webp",
+    "youtubeTrailer": "_Z3QKkl1WyM",
+    "trailer": "https://www.youtube.com/embed/_Z3QKkl1WyM",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "Wakanda Forever! Long Live Wakanda! For Honor, For Legacy, For Wakanda!",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "Queen Ramonda och Wakandas kvinnliga krigare, gör allt för att skydda nationen och hitta en ny väg för kungariket Wakanda.",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "quote": "Wakandas invånare försöker gå vidare och tar hjälp av War Dog Nakia och Everett Ross, för att hitta en ny väg för kungariket Wakanda.",
+        "stars": 4,
+        "max": 4
+      }
+    ]
+  },
+  {
+    "title": "Avatar: The Way of Water",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 192,
+    "genre": "Action,Äventyr",
+    "distributor": "Walt Disney Studios,Motion Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Ryan Coogler ",
+    "actors": [
+      "Chadwick Boseman",
+      "Lupita Nyong'o",
+      "Angela Bassett",
+      "Michael B. Jordan"
+    ],
+    "description": "Mer än tio år efter händelserna i den första filmen berättar ”Avatar The Way of Water” historien om familjen Sully (Jake, Neytiri och deras barn), problemen som följer dem, allt de gör för att leva i säkerhet, slagen de utkämpar för att hålla sig levande och tragedierna de måste utstå.”",
+    "images": "/images/avatar.jpg",
+    "youtubeTrailer": "d9MyW72ELq0",
+    "trailer": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+    "reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "quote": "The Way of Water är en fantastiskt uppslukande upplevelse",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "Succén upprepar sig för James Camerons Avatar-äventyr.",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Moviezine",
+        "quote": "Ursnygg,Storslagen och Emotionell.",
+        "stars": 4,
+        "max": 4
+      }
+    ]
+  },
+  {
+    "title": "The Menu",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 106,
+    "genre": "Komedi,Skräck",
+    "distributor": "Searchlight Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Mark Mylod",
+    "actors": [
+      "Ralph Fiennes",
+      "Anya Taylor-Joy",
+      "Nicholas Hoult",
+      "Hong Chau"
+    ],
+    "description": "Ett ungt par bjuds, tillsammans med en grupp främlingar, in till en avskilt belägen restaurang på en avlägsen ö. Den mycket hyllade men något besatte köksmästaren har förberett en påkostad avsmakningsmeny, men också några chockerande överraskningar.”",
+    "images": "/images/themenu.jpg",
+    "youtubeTrailer": "CAWZMssP3gM",
+    "trailer": "https://www.youtube.com/watch?v=CAWZMssP3gM",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "Underbara överraskningar väntar er alla",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Aftonbladet",
+        "quote": "En Genreöverskridande Film Av Sällan skådat Slag.",
+        "stars": 4,
+        "max": 4
+      },
+      {
+        "source": "Moviezine",
+        "quote": "En Väl Tillagad  Thriller.",
+        "stars": 4,
+        "max": 4
+      }
+    ]
+  },
+  {
+    "title": "Top Gun : Marverick",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 130,
+    "genre": "Action,Äventyr",
+    "distributor": "Paramount Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Joseph Kosinski ",
+    "actors": [
+      "Tom Cruise",
+      "Jennifer Connelly",
+      "Miles Teller"
+    ],
+    "description": "Efter mer än 30 års tjänstgöring som en av US Navy's bästa piloter, är Pete ”Maverick” Mitchell där han hör hemma - en modig testpilot som ständigt tänjer på gränserna och undviker den befordran som skulle komma att hålla honom nere på marken istället för uppe i luften. När han tränar en grupp avgångselever från Top Gun för ett specialuppdrag som ingen pilot någonsin utfört tidigare, träffar Maverick löjtnant Bradley Bradshaw, även kallad ”Rooster” - sonen till Mavericks bortgångne vän, radar-officeren löjtnant Nick Bradshaw, även känd som ”Goose”. Med en osäker framtid framför sig, och hemsökt av spöken från det förflutna tvingas Maverick att konfrontera sina största fasor, vilket kulminerar i ett uppdrag som kräver den ultimata uppoffringen av de som blir utvalda till att utföra det.”",
+    "images": "/images/topgun1.jpg",
+    "youtubeTrailer": "qSqVVswa420",
+    "trailer": "https://www.youtube.com/watch?v=qSqVVswa420",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "Feel the need... The need for speed",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Svenska Dagbladet",
+        "quote": "Top Gun är en klassiker, Saabs bilar är borta - vem trodde det?.",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Moviezine",
+        "quote": "Det är inte planet, det är piloten.",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 2022,
+    "length": 126,
+    "genre": "Action, Äventyr, Fantasi",
+    "distributor": "Walt Disney Studios, Motion Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Sam Raimi",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Elizabeth Olsen",
+      "Chiwetel Ejiofor"
+    ],
+    "description": "Doctor Strange slår sig ihop med en mystisk tonårsflicka från sina drömmar som kan resa över multiversum för att bekämpa flera hot, inklusive andra universums versioner av honom själv, som hotar att utplåna miljoner över universum. De söker hjälp från Wanda the Scarlet Witch, Wong och andra.",
+    "images": "/images/doctorStrangeMultiverse.webp",
+    "youtubeTrailer": "aWzlQ2N6qqg",
+    "trailer": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+    "reviews": [
+      {
+        "source": "The Atlantic",
+        "quote": "Den nya Doctor Strange är inte bara en annan Marvel film, filmen är krystad och överfylld men också förvånansvärt bra. -David Sims",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "BBC",
+        "quote": "Doctor Strange in the Multiverse of Madness är lika glatt besynnerlig som vilken oberoende kultfilm som helst skriver Nicholas Barber.",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "quote": "Doctor Strange in the Multiverse of Madness arbetar under tyngden av den vidsträckta MCU:n, men Sam Raimis distinkta riktning förtrollar en underhållande.",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 1994,
+    "length": 142,
+    "genre": "Romantik,Drama",
+    "distributor": "Paramount Pictures",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "Robert Zemeckis",
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "description": "Presidentskapen för Kennedy och Johnson, Vietnamkriget, Watergate-skandalen och andra historiska händelser utspelar sig ur perspektivet av en man från Alabama med en IQ på 75, vars enda önskan är att återförenas med sin barndomsälskling.",
+    "images": "/images/ForrestGump.jpg",
+    "youtubeTrailer": "bLvqoHBptjg",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "Vilken fantastisk berättelse och gripande mening. Den filmen lär dig så mycket om livet och meningen med det. Att livet inte är så illa som de flesta låter det verka.",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "rogerrebert",
+        "quote": "Filmens hjälte, spelad av Tom Hanks, är en helt och hållet anständig man med en IQ på 75, som lyckas bli involverad i varje större händelse i amerikansk historia mellan 1950- och 1980-talet.",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "quote": "Forrest Gump må vara en alltför sentimental film med ett något problematiskt budskap, men dess sötma och charm räcker vanligtvis för att uppskatta verkligt djup och nåd.",
+        "stars": 4,
+        "max": 5
+      }
+    ]
+  },
+  {
+    "title": "Toy Story",
+    "productionCountries": [
+      "USA"
+    ],
+    "productionYear": 1995,
+    "length": 141,
+    "genre": "Animering,Komedi,Äventyr",
+    "distributor": "Walt Disney Studios, Pixar Animation Studios",
+    "language": "engelska",
+    "subtitles": "svenska",
+    "director": "John Lasseter",
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "description": "En cowboydocka blir djupt hotad och avundsjuk när en ny rymdman actionfigur ersätter honom som toppleksak i en pojkes sovrum.",
+    "images": "/images/ToyStory.jpg",
+    "youtubeTrailer": "v-PjgYDrg70",
+    "trailer": "https://www.youtube.com/watch?v=v-PjgYDrg70",
+    "reviews": [
+      {
+        "source": "imdb",
+        "quote": "Toy Story är den överlägset bästa Disney-filmen som någonsin gjorts, den är i stort sett perfekt. Det är äventyrligt, det är spännande, det är underhållande, det är bra för hela familjen.",
+        "stars": 5,
+        "max": 5
+      },
+      {
+        "source": "filmtipset",
+        "quote": "Karaktärerna är riktigt fyndigt gjorda, från den röda ritplattan, Etch a Sketch, som man kan rita på med hjälp av två vita rattar, till leksaksmikrofonen.",
+        "stars": 4,
+        "max": 5
+      },
+      {
+        "source": "Rotten Tomatoes",
+        "quote": "Underhållande eftersom det är innovativt, gav Toy Story nytt liv i animationen samtidigt som den förebådade ankomsten av Pixar som en familjevänlig kraft att räkna med.",
+        "stars": 5,
+        "max": 5
+      }
+    ]
+  }
+]

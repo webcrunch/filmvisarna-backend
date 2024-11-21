@@ -1,0 +1,14 @@
+{
+  "name": "node-netlify-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo 'No build script required'"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "serverless-http": "^2.7.0"
+  }
+}
