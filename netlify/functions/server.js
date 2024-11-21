@@ -1,11 +1,13 @@
 const express = require('express');
 const serverless = require('serverless-http');
 const fs = require('fs');
+const path = require('path');
 const app = express();
 
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-const dataFilePath = './data.json';
+const dataFilePath = path.join(__dirname, 'json', 'data.json');
 
 // Endpoint för att läsa JSON-filen
 app.get('/data', (req, res) => {
@@ -13,7 +15,7 @@ app.get('/data', (req, res) => {
         if (err) {
             return res.status(500).send('Error reading file');
         }
-        res.send(JSON.parse(data));
+        res.json(JSON.parse(data));
     });
 });
 
