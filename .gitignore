@@ -37,3 +37,5 @@ typings/
 *.tgz
 
 # Yarn Integrity
+# Local Netlify folder
+.netlify
