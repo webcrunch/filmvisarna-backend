@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: false }));
 
 const PORT = 5000;
 
-const getPath = file => path.join(rootPath, 'public', 'json', file);
+const getPath = file => path.join(rootPath, 'json', file);
 
 // Utility function to read JSON files
 const readJsonFile = async (filePath) => {
